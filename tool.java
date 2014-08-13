@@ -3,7 +3,7 @@ public class Tool
 {
 	public static String getTool()
 	{
-		return "Hammer";
+		return "Tool";
 	}
 
 	public static String getScrewdriver()
