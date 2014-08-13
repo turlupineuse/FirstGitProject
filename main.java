@@ -5,5 +5,6 @@ public class Main
 	{
 		System.out.println("Hello: " + Tool.getTool());
 		System.out.println("A new tool:" + Tool.getScrewdriver());
+		System.out.println("Toolbox:" + Tool.getToolBox());
 	}
 }

@@ -10,4 +10,9 @@ public class Tool
 	{
 		return "Screwdriver";
 	}
+	
+	public static String getToolBox()
+	{
+		return "ToolBox";
+	}
 }
