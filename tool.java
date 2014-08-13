@@ -5,4 +5,9 @@ public class Tool
 	{
 		return "Hammer";
 	}
+
+	public static String getScrewdriver()
+	{
+		return "Screwdriver";
+	}
 }

@@ -4,5 +4,6 @@ public class Main
 	public static void main(String [] args)
 	{
 		System.out.println("Hello: " + Tool.getTool());
+		System.out.println("A new tool:" + Tool.getScrewdriver());
 	}
 }
