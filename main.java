@@ -8,5 +8,6 @@ public class Main
 		System.out.println("Toolbox:" + Tool.getToolBox());
 		System.out.println("Toolbox:" + Tool.getToolBox());
 		System.out.println("Toolbox:" + Tool.getToolBox());
+		System.out.println("Salut toi");
 	}
 }
