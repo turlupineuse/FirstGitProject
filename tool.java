@@ -20,4 +20,8 @@ public class Tool
 	{
 		return "Screw";
 	}
+	public static String getNail()
+	{
+		return "Nail";
+	}
 }
