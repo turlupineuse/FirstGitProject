@@ -6,4 +6,8 @@ public class Country
 	{
 		return "Canada";
 	}
+	public static String getUSA()
+	{
+		return "USA";
+	}
 }
