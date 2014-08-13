@@ -6,4 +6,8 @@ public class City
 	{
 		return "Montreal";
 	}
+	public static void String getOttawa()
+	{
+		return "Ottawa";
+	}
 }
