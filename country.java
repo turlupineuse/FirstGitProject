@@ -14,4 +14,8 @@ public class Country
 	{
 		return "Gemany";
 	}
+	public static String getFrance()
+	{
+		return "France";
+	}
 }
