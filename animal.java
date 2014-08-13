@@ -10,5 +10,9 @@ public class Animal
 	{
 		return "Dog";
 	}
+	public static String getBird()
+	{
+		return "Bird";
+	}
 
 }
