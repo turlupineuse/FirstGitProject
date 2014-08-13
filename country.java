@@ -10,4 +10,8 @@ public class Country
 	{
 		return "USA";
 	}
+	public static String getGermany()
+	{
+		return "Gemany";
+	}
 }
