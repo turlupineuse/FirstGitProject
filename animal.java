@@ -6,5 +6,9 @@ public class Animal
 	{
 		return "Cat";
 	}
+	public static String getDog()
+	{
+		return "Dog";
+	}
 
 }
