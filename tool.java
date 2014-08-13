@@ -15,4 +15,9 @@ public class Tool
 	{
 		return "ToolBox";
 	}
+	
+	public static String getScrew()
+	{
+		return "Screw";
+	}
 }
