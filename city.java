@@ -10,4 +10,8 @@ public class City
 	{
 		return "Ottawa";
 	}
+	public static void String getLaval()
+	{
+		return "Laval";
+	}
 }
