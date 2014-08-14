@@ -10,5 +10,6 @@ public class Main
 		System.out.println("Toolbox:" + Tool.getToolBox());
 		System.out.println("Salut toi");
 		System.out.println("Bye !");
+		System.out.println("Bonne nuit !");
 	}
 }
